@@ -9,3 +9,5 @@ The technologies used in this project are
 - CSS
 - Javascript
 
+### Given below is the Screenshot of the project
+![Screenshot 2023-01-13 120057](https://user-images.githubusercontent.com/97158384/212253031-2368c29a-3210-457a-827e-bc0b5565cd25.png)
