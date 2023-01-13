@@ -1,8 +1,10 @@
 # Item-Lister
-It is a simple Item-Lister app, which performs the following operations
+It is a simple Item-Lister app, which performs the following features
 - **Add Items** 
 - **Delete Items** 
 - **Search for your entered Items**
+- **Items with same name cannot be added** 
+- **Empty items cannot be added**
 
 The technologies used in this project are
 - HTML
