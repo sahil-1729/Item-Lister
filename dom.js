@@ -11,13 +11,13 @@ function addL(e){
     //Get user input ka value not the whole tag
     var value = document.getElementById('item').value;
     var nItem = document.createElement('li');
-    nItem.className = 'list-group-item';
+    nItem.className = 'item list-group-item';
     //Add text to the new element
     nItem.appendChild(document.createTextNode(value));
     //create a cancel button
     var cancel = document.createElement('button');
     //add the respective classes to the button
-    cancel.className = 'btn btn-danger btn-sm float-end delete';
+    cancel.className = 'button btn btn-danger btn-sm float-end delete';
     //adding the letter to the cancel b
     cancel.appendChild(document.createTextNode('X'));
     //add the cancel button to the new item 
