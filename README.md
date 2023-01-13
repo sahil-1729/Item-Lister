@@ -12,4 +12,4 @@ The technologies used in this project are
 - Javascript
 
 ### Given below is the Screenshot of the project
-![Screenshot 2023-01-13 120057](https://user-images.githubusercontent.com/97158384/212253031-2368c29a-3210-457a-827e-bc0b5565cd25.png)
+![Screenshot 2023-01-13 123222](https://user-images.githubusercontent.com/97158384/212257896-8d1f064b-d6d3-4d1f-9b30-ecf887a0beb0.png)
